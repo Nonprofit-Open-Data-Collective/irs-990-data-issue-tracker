@@ -52,12 +52,6 @@ Files that are within scope include:
 
 
 
-<style>
-h1{ color: darkred }
-h2{ color: darkblue }
-</style>
-  
-
 
 
 
