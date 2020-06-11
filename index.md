@@ -1,3 +1,10 @@
+---
+layout: default
+title: Schedule
+
+---
+
+
 # IRS 990 ➼ OPEN DATA ➼ ISSUE TRACKER
 
 
@@ -56,8 +63,9 @@ Files that are within scope include:
 <style>
 h1{ color: darkred }
 h2{ color: darkblue }
-em{ color: darkred;
-    size: 2x; }
+blockquote{ 
+  color: darkred;
+  font-size: 20px; }
 </style>
   
 
