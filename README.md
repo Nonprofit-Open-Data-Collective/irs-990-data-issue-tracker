@@ -1,12 +1,19 @@
----
-title: "IRS 990 data issue tracker"
----
-
 # IRS 990 data issue tracker
 
-A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. This is NOT a forum for questions on analyzing the data. 
+<br>
+<hr>
+<br>
+
+A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
+
+This is NOT a forum for questions about analyzing data. 
 
 _**Contributors are volunteer experts, not IRS personnel.**_
+
+<br>
+<hr>
+<br>
+
 
 
 ## IRS 990 Data
@@ -45,6 +52,11 @@ Files that are within scope include:
 
 
 
+<style>
+h1{ color: darkred }
+h2{ color: darkblue }
+</style>
+  
 
 
 
