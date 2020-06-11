@@ -9,7 +9,7 @@
 
 > A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
 
-> *This is NOT a forum for questions about analyzing data.*  
+> *NOT a forum for questions about analyzing data.*  
 > _Contributors are volunteer experts, not IRS personnel._    
 
 <br>
