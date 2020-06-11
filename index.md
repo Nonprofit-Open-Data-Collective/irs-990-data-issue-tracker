@@ -1,9 +1,3 @@
----
-layout: default
-title: Schedule
-
----
-
 
 # IRS 990 ➼ OPEN DATA ➼ ISSUE TRACKER
 
@@ -14,9 +8,9 @@ title: Schedule
 <br>
 
 > A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
-> 
-> *This is NOT a forum for questions about analyzing data.*
-> _Contributors are volunteer experts, not IRS personnel._  
+
+> *This is NOT a forum for questions about analyzing data.*  
+> _Contributors are volunteer experts, not IRS personnel._    
 
 <br>
 <hr>
