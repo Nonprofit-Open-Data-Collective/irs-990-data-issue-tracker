@@ -1,14 +1,12 @@
 # IRS 990 ➼ OPEN DATA ➼ ISSUE TRACKER
 
-<br>
-<hr>
-<br>
 
-A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
 
-This is NOT a forum for questions about analyzing data. 
+> A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
 
-_**Contributors are volunteer experts, not IRS personnel.**_
+*This is NOT a forum for questions about analyzing data.*  
+
+*Contributors are volunteer experts, not IRS personnel.*  
 
 <br>
 <hr>
