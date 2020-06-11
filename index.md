@@ -1,6 +1,5 @@
----
-title: IRS 990 data issue tracker
----
+# IRS 990 ➼ OPEN DATA ➼ ISSUE TRACKER
+
 
 
 <br>
@@ -57,6 +56,8 @@ Files that are within scope include:
 <style>
 h1{ color: darkred }
 h2{ color: darkblue }
+em{ color: darkred;
+    size: 2x; }
 </style>
   
 
