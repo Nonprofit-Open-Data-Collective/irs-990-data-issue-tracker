@@ -111,7 +111,7 @@ header{ background: black }
 a.button2 {
   background-color: #008CBA;
   width: 200px;
-  height: 35px;
+  height: 30px;
   border: none;
   color: white;
   padding: 15px 32px;
