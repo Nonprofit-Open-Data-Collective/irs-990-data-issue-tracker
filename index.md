@@ -7,24 +7,18 @@
 
 > A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
 > 
-> * *NOT a forum for questions about analyzing data.*   
-> * _Contributors are volunteer experts, not IRS personnel._     
+> * *A forum for people processing and improving raw IRS data files.*    
+> * *Contributors are volunteer experts, not IRS personnel.*   
+> * *The forum is not intended for questions about analyzing data, unless they are related to the sample scope of specific datasets or identifying systematic errors.*  
 
 <br>
 <hr>
 <br>
 
 
+## 
 
-## IRS 990 Data
-
-Although **US-based tax-exempt organizations** are NOT required to pay federal taxes on generated revenues, they are required to disclose basic financial information and organizational activities via IRS 990 forms. 
-
-Charities are thus bound by a social contract - they receive favorable tax status and are eligible to benefit from tax-exempt donations but in return they must be transparent in how funds are used and accountable to supporters and charity watchdog organizations. The IRS serves as the data aggregator, and abuses are typically investigated at the state level the charity branch of the Attorney General's office ([example](https://oag.ca.gov/charities/complaints)). 
-
-*Some organizations like churches are tax-exempt but do not have to file 990's, and others receive tax-deductible charitable contributions but are not tax-exempt. See [notes on IRS 990 filing scope](https://www.irs.gov/charities-non-profits/contributors/other-eligible-donees).*
-
-## Open Data 
+# About
 
 The IRS has started to systematically release administrative data and meta-data related to charitable organizations. As a result individuals can now access a tremendous amount of information on a charity before donating or supporting the entity, and policy-makers have a much bigger picture on the role that these 1.5 million organizations play in the economy and society. 
 
@@ -32,10 +26,12 @@ The data, however, is complex. And documentation is often sparse.
 
 This site was created for two primary purposes: 
 
-(1) To document the location of IRS 990 open data assets.  
-(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.   
+**(1) To document the location of IRS 990 open data assets.**  
+**(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.**   
 
-Files that are within scope include: 
+## IRS Nonprofit Data
+
+Data assets that are within the scope of this forum include: 
 
 * [Publication 78](https://github.com/Nonprofit-Open-Data-Collective/irs-current-exempt-orgs-database/blob/master/README.md):  Tax Exempt Organization Search (formerly Select Check)
 * [Business Master File](https://github.com/Nonprofit-Open-Data-Collective/irs-exempt-org-business-master-file/blob/master/README.md): Cumulative list and attributes of all active tax-exempt organizations.    
@@ -47,8 +43,38 @@ Files that are within scope include:
 * [Database of Tax-Exempt Revocation](https://github.com/Nonprofit-Open-Data-Collective/irs-revoked-exempt-orgs/blob/master/README.md): list of organizations that have given-up or lost their tax exempt status
 * Form 1023 
 
+## Background on IRS 990 Forms
+
+US-based tax-exempt organizations** are required to disclose basic financial information and organizational activities via IRS 990 forms. 
+
+Charities are thus bound by a social contract - they receive favorable tax status and are eligible to receive tax-exempt donations but in return they must be transparent in how funds are used and accountable to supporters and charity watchdog organizations. 
+
+The IRS serves as the data aggregator, but does not monitor or regulate charities directly. Abuses are typically reported and investigated at the state level through a branch of the Attorney General's office ([for example](https://oag.ca.gov/charities/complaints)). 
+
+*Some organizations like churches are tax-exempt but do not have to file 990's, and others receive tax-deductible charitable contributions but are not tax-exempt. See [notes on IRS 990 filing scope](https://www.irs.gov/charities-non-profits/contributors/other-eligible-donees).*
+
+
+
 ## Potential Issues 
 
+Common data issues include: 
+
+* Inadequate documentation 
+* Inadequate meta-data  
+* Missing files, filings, or variables  
+* Changes in variable definitions   
+* Harmonization of data over time  
+* Harmonization of a sample across forms  
+
+The IRS typically lacks contact information to answer questions related to administrative data that has been released to the public, so it can be challenging to find answers to these types of questions. 
+
+This forum is a place for experts and noeophytes to compare notes, share information, and contribute resources that help improve the quality and accessibility of the data. 
+
+
+
+# Open Data Resources
+
+Much of the open data useful to typical end users has been through rigorous processes to 
 
 
 
