@@ -34,7 +34,7 @@ This site was created for two primary purposes:
 
 [](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
 
-<a class="button" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
+<a class="button2" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
 
 Please visit the guidelines for posting questions for tips on writing questions in a way that will maximize the likelihood of getting a response. 
 
@@ -107,7 +107,7 @@ blockquote em{
   font-size: 16px; }
 header{ background: black } 
   
-a.button {
+a.button2 {
   background-color: #008CBA;
   width: 200px;
   height: 35px;
