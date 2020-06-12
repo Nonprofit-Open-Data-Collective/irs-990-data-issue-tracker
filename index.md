@@ -96,18 +96,19 @@ Much of the open data useful to typical end users has been through rigorous proc
 
 
 <style>
-h1{ color: darkblue }
-h2{ color: darkblue }
-a{ color: darkorange }
+h1{ color: darkred }
+h2{ color: darkred }
+#main-content h2{ color: darkslateblue }
+a{ color: darkblue }
 blockquote{ 
-  color: darkorange;
+  color: darkgoldenrod;
   font-size: 20px; }
 blockquote em{ 
-  color: darkred;
+  color: darkgoldenrod;
   font-size: 16px; }
 header{ background: black } 
   
-.button {
+a.button {
   background-color: #008CBA;
   width: 200px;
   border: none;
