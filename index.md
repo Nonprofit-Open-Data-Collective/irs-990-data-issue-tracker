@@ -30,6 +30,7 @@ The data, however, is complex. And documentation is often sparse.
 This site was created for two primary purposes: 
 
 **(1) To document the location of IRS 990 open data assets.**  
+
 **(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.**   
 
 [](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
