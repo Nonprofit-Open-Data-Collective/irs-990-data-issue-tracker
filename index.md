@@ -6,10 +6,12 @@
 <br>
 
 > A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
-> 
-> * *A forum for people processing and improving raw IRS data files.*    
-> * *Contributors are volunteer experts, not IRS personnel.*   
-> * *The forum is not intended for questions about analyzing data, unless they are related to the sample scope of specific datasets or identifying systematic errors.*  
+
+**PLEASE NOTE:**
+
+> * *This is a forum for people processing raw IRS data files to create standardized and enhanced data products.*    
+> * *Contributors to the forum are volunteer experts, not IRS personnel.*   
+> * *The forum is not intended for questions about analyzing data, unless they are related to the sample scope of specific datasets or systematic errors discovered in public datasets.*  
 
 <br>
 <hr>
@@ -84,6 +86,9 @@ h2{ color: darkblue }
 blockquote{ 
   color: darkred;
   font-size: 20px; }
+blockquote em{ 
+  color: darkred;
+  font-size: 16px; }
 header{ background: black } 
 </style>
   
