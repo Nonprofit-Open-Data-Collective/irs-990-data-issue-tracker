@@ -18,7 +18,7 @@
 <br>
 
 
-## 
+
 
 # About
 
@@ -30,6 +30,13 @@ This site was created for two primary purposes:
 
 **(1) To document the location of IRS 990 open data assets.**  
 **(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.**   
+
+[SUBMIT A QUESTION](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
+
+Please visit the guidelines for posting questions for tips on writing questions in a way that will maximize the likelihood of getting a response. 
+
+<br>
+<br>
 
 ## IRS Nonprofit Data
 
@@ -45,6 +52,9 @@ Data assets that are within the scope of this forum include:
 * [Database of Tax-Exempt Revocation](https://github.com/Nonprofit-Open-Data-Collective/irs-revoked-exempt-orgs/blob/master/README.md): list of organizations that have given-up or lost their tax exempt status
 * Form 1023 
 
+<br>
+<br>
+
 ## Background on IRS 990 Forms
 
 US-based tax-exempt organizations** are required to disclose basic financial information and organizational activities via IRS 990 forms. 
@@ -55,7 +65,8 @@ The IRS serves as the data aggregator, but does not monitor or regulate charitie
 
 *Some organizations like churches are tax-exempt but do not have to file 990's, and others receive tax-deductible charitable contributions but are not tax-exempt. See [notes on IRS 990 filing scope](https://www.irs.gov/charities-non-profits/contributors/other-eligible-donees).*
 
-
+<br>
+<br>
 
 ## Potential Issues 
 
@@ -72,7 +83,8 @@ The IRS typically lacks contact information to answer questions related to admin
 
 This forum is a place for experts and noeophytes to compare notes, share information, and contribute resources that help improve the quality and accessibility of the data. 
 
-
+<br>
+<br>
 
 # Open Data Resources
 
