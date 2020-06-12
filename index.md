@@ -1,6 +1,4 @@
 
-# IRS 990 ➼ OPEN DATA ➼ ISSUE TRACKER
-
 
 
 <br>
