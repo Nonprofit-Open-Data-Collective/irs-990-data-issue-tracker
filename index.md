@@ -118,9 +118,9 @@ a.button2 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 20px;
-}
-
+  
 </style>
   
 
