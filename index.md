@@ -32,7 +32,9 @@ This site was created for two primary purposes:
 **(1) To document the location of IRS 990 open data assets.**  
 **(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.**   
 
-[SUBMIT A QUESTION](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
+[](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
+
+<a class="button" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
 
 Please visit the guidelines for posting questions for tips on writing questions in a way that will maximize the likelihood of getting a response. 
 
@@ -103,6 +105,18 @@ blockquote em{
   color: darkred;
   font-size: 16px; }
 header{ background: black } 
+  
+.button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 </style>
   
 
