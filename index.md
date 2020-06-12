@@ -98,7 +98,7 @@ Much of the open data useful to typical end users has been through rigorous proc
 <style>
 #main-content h1{ color: darkgoldenrod }
 #main-content h2{ color: darkgoldenrod }
-a{ color: navy }
+a{ color: darkviolet }
 blockquote{ 
   color: darkgoldenrod;
   font-size: 20px; }
@@ -117,7 +117,7 @@ a.button {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 23px;
+  font-size: 20px;
 }
 
 </style>
