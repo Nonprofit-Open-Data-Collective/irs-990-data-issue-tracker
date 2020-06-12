@@ -58,7 +58,7 @@ h2{ color: darkblue }
 blockquote{ 
   color: darkred;
   font-size: 20px; }
-header{ background-color: black } 
+header{ background: black } 
 </style>
   
 
