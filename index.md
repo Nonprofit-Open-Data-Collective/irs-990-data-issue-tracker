@@ -110,7 +110,7 @@ header{ background: black }
 a.button {
   background-color: #008CBA;
   width: 200px;
-  height: 30px;
+  height: 35px;
   border: none;
   color: white;
   padding: 15px 32px;
