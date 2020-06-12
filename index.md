@@ -108,6 +108,7 @@ header{ background: black }
   
 .button {
   background-color: #008CBA;
+  width: 200px;
   border: none;
   color: white;
   padding: 15px 32px;
