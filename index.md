@@ -7,8 +7,8 @@
 
 > A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors. 
 
-> *NOT a forum for questions about analyzing data.*  
-> _Contributors are volunteer experts, not IRS personnel._    
+*NOT a forum for questions about analyzing data.*  
+_Contributors are volunteer experts, not IRS personnel._    
 
 <br>
 <hr>
@@ -58,6 +58,7 @@ h2{ color: darkblue }
 blockquote{ 
   color: darkred;
   font-size: 20px; }
+header{ background-color: black } 
 </style>
   
 
