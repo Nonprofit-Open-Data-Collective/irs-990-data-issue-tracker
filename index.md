@@ -8,8 +8,7 @@
 > **A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors.** 
 >
 > * *A forum for people processing raw IRS data files to create standardized and enhanced data products.*    
-> * *Contributors to the forum are volunteer experts, not IRS personnel.*   
-> * *The forum is not intended for questions about analyzing data, unless they are related to systematic errors discovered in public datasets.*  
+> * *Contributors to the forum are volunteer experts, NOT IRS personnel.*   
 
 <br>
 <hr>
@@ -26,6 +25,8 @@
 The IRS has started to systematically release administrative data and meta-data related to over 1.5 million charitable organizations. The data, however, is complex. And documentation is often sparse. 
 
 This site was created to centalize **discussions around data documentation, meta-data, and quality control issue** in order to avoid duplication of efforts and make the open data more useful.   
+
+*The forum is not intended for questions about analyzing data, unless they are related to systematic errors discovered in public datasets.*  
 
 
 <br>
