@@ -6,22 +6,22 @@
 <br>
 
 > **A place to aggregate questions about IRS 990 data access, documentation, meta-data, and inconsistencies or errors.** 
-> 
-> 
-> PLEASE NOTE:
 >
-> * *This is a forum for people processing raw IRS data files to create standardized and enhanced data products.*    
+> * *A forum for people processing raw IRS data files to create standardized and enhanced data products.*    
 > * *Contributors to the forum are volunteer experts, not IRS personnel.*   
-> * *The forum is not intended for questions about analyzing data, unless they are related to the sample scope of specific datasets or systematic errors discovered in public datasets.*  
+> * *The forum is not intended for questions about analyzing data, unless they are related to systematic errors discovered in public datasets.*  
 
 <br>
 <hr>
 <br>
 
 
+<a class="button2" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
 
+<br>
+<hr>
+<br>
 
-# About
 
 The IRS has started to systematically release administrative data and meta-data related to charitable organizations. As a result individuals can now access a tremendous amount of information on a charity before donating or supporting the entity, and policy-makers have a much bigger picture on the role that these 1.5 million organizations play in the economy and society. 
 
@@ -33,14 +33,10 @@ This site was created for two primary purposes:
 
 **(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.**   
 
-[](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
-
-<a class="button2" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
-
-Please visit the guidelines for posting questions for tips on writing questions in a way that will maximize the likelihood of getting a response. 
 
 <br>
 <br>
+
 
 ## IRS Nonprofit Data
 
@@ -55,19 +51,6 @@ Data assets that are within the scope of this forum include:
   - [990-N Postcard Filers](https://github.com/Nonprofit-Open-Data-Collective/irs-990n-postcard-filers/blob/master/README.md): organizations with 
 * [Database of Tax-Exempt Revocation](https://github.com/Nonprofit-Open-Data-Collective/irs-revoked-exempt-orgs/blob/master/README.md): list of organizations that have given-up or lost their tax exempt status
 * Form 1023 
-
-<br>
-<br>
-
-## Background on IRS 990 Forms
-
-US-based tax-exempt organizations** are required to disclose basic financial information and organizational activities via IRS 990 forms. 
-
-Charities are thus bound by a social contract - they receive favorable tax status and are eligible to receive tax-exempt donations but in return they must be transparent in how funds are used and accountable to supporters and charity watchdog organizations. 
-
-The IRS serves as the data aggregator, but does not monitor or regulate charities directly. Abuses are typically reported and investigated at the state level through a branch of the Attorney General's office ([for example](https://oag.ca.gov/charities/complaints)). 
-
-*Some organizations like churches are tax-exempt but do not have to file 990's, and others receive tax-deductible charitable contributions but are not tax-exempt. See [notes on IRS 990 filing scope](https://www.irs.gov/charities-non-profits/contributors/other-eligible-donees).*
 
 <br>
 <br>
@@ -90,38 +73,61 @@ This forum is a place for experts and noeophytes to compare notes, share informa
 <br>
 <br>
 
+
 # Open Data Resources
 
-Much of the open data useful to typical end users has been through rigorous processes to 
+There are dozens of individuals and institutions that are generating high-quality and free open data from archival data released by the IRS. 
+
+> [Tools for Accessing Open 990 Data](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/raw/master/resources/psi-open%20990-data_catalog-2022.pdf)
+
+For examples of how this data is moving our field forward check out the Johnson Center's helpful report: 
+
+> [Use Cases from Publicly Available IRS Form 990 Data](https://johnsoncenter.org/resource/use-cases-from-publicly-available-990-data/) 
+
+For background reading about administrative nonprofit data and the movement to ensure it is open and free see: 
+
+> [Stanford Social Innovation Review: Unlocking the Potential of Open 990 Data](https://ssir.org/articles/entry/unlocking_the_potential_of_open_990_data#) 
+
+Or browse reports and guides in the [Resources Folder](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/tree/master/resources). 
 
 
 
-<style>
-#main-content h1{ color: darkgoldenrod }
-#main-content h2{ color: darkgoldenrod }
-a{ color: steelblue }
-blockquote{ 
-  color: darkgoldenrod;
-  font-size: 20px; }
-blockquote em{ 
-  color: darkgoldenrod;
-  font-size: 16px; }
-header{ background: black } 
+
+
+
+
+
+
+
+
+<style> 
+#main-content h1{ color: darkgoldenrod } 
+#main-content h2{ color: darkgoldenrod } 
+a{ color: steelblue } 
+blockquote{  
+  color: darkgoldenrod; 
+  font-size: 20px; } 
+blockquote em{  
+  color: darkgoldenrod; 
+  font-size: 16px; } 
+header{ background: black }  
   
-a.button2 {
-  background-color: #008CBA;
-  width: 200px;
-  height: 30px;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 20px;
-  
-</style>
+a.button2 { 
+  background-color: #008CBA; 
+  width: 200px; 
+  height: 30px; 
+  border: none;  
+  color: white; 
+  padding: 15px 32px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 20px; 
+   
+</style> 
+
+
   
 
 
