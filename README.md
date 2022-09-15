@@ -70,6 +70,10 @@ This forum is a place for experts and noeophytes to compare notes, share informa
 
 # Open Data Resources
 
+For background reading about administrative nonprofit data and the movement to ensure it is open and free see: 
+
+> [Stanford Social Innovation Review: Unlocking the Potential of Open 990 Data](https://ssir.org/articles/entry/unlocking_the_potential_of_open_990_data#) 
+
 There are dozens of individuals and institutions that are generating high-quality and free open data from archival data released by the IRS. 
 
 > [Tools for Accessing Open 990 Data](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/raw/master/resources/psi-open%20990-data_catalog-2022.pdf)
@@ -78,11 +82,7 @@ For examples of how this data is moving our field forward check out the Johnson 
 
 > [Use Cases from Publicly Available IRS Form 990 Data](https://johnsoncenter.org/resource/use-cases-from-publicly-available-990-data/) 
 
-For background reading about administrative nonprofit data and the movement to ensure it is open and free see: 
-
-> [Stanford Social Innovation Review: Unlocking the Potential of Open 990 Data](https://ssir.org/articles/entry/unlocking_the_potential_of_open_990_data#) 
-
-Or browse reports and guides in the [Resources Folder](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/tree/master/resources). 
+Or browse reports and guides in the [**Resources Folder**](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/tree/master/resources). 
 
 
 
