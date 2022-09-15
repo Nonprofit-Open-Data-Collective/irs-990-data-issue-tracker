@@ -41,16 +41,16 @@ This site was created for two primary purposes:
 ## IRS Nonprofit Data
 
 Data assets that are within the scope of this forum include: 
-
-* [Publication 78](https://github.com/Nonprofit-Open-Data-Collective/irs-current-exempt-orgs-database/blob/master/README.md):  Tax Exempt Organization Search (formerly Select Check)
-* [Business Master File](https://github.com/Nonprofit-Open-Data-Collective/irs-exempt-org-business-master-file/blob/master/README.md): Cumulative list and attributes of all active tax-exempt organizations.    
+   
 * IRS 990 Filings 
-  - [Annual SOI Extracts](https://github.com/Nonprofit-Open-Data-Collective/irs-990-statistics-of-income-extracts/blob/master/README.md): limited financial variables of all 990 filers (minus 990-N post-card filers)
-  - [990 Paper Filers](https://www.irs.gov/charities-non-profits/copies-of-eo-returns-available): returns submitted to the IRS in paper form, typically archived as PDFs  
-  - [990 E-Filers](https://www.irs.gov/newsroom/irs-makes-electronically-filed-form-990-data-available-in-new-format): downloads of all electronic 990 filers starting in 2010 
-  - [990-N Postcard Filers](https://github.com/Nonprofit-Open-Data-Collective/irs-990n-postcard-filers/blob/master/README.md): organizations with 
-* [Database of Tax-Exempt Revocation](https://github.com/Nonprofit-Open-Data-Collective/irs-revoked-exempt-orgs/blob/master/README.md): list of organizations that have given-up or lost their tax exempt status
-* Form 1023 
+  - [Annual SOI Extracts](https://github.com/Nonprofit-Open-Data-Collective/irs-990-statistics-of-income-extracts/blob/master/README.md): limited financial variables of all 990 filers (minus 990-N post-card filers).
+  - [990 Paper Filers](https://www.irs.gov/charities-non-profits/copies-of-eo-returns-available): returns submitted to the IRS in paper form, typically archived as PDFs. 
+  - [990 E-Filers](https://www.irs.gov/newsroom/irs-makes-electronically-filed-form-990-data-available-in-new-format): downloads of all electronic 990 filers starting in 2010. 
+  - [990-N Postcard Filers](https://github.com/Nonprofit-Open-Data-Collective/irs-990n-postcard-filers/blob/master/README.md): organizations with revenues below $50k and assets less than $250k. 
+* [Database of Tax-Exempt Revocation](https://github.com/Nonprofit-Open-Data-Collective/irs-revoked-exempt-orgs/blob/master/README.md): list of organizations that have given-up or lost their tax exempt status. 
+* [Publication 78](https://github.com/Nonprofit-Open-Data-Collective/irs-current-exempt-orgs-database/blob/master/README.md):  Tax Exempt Organization Search (formerly Select Check). 
+* [Business Master File](https://github.com/Nonprofit-Open-Data-Collective/irs-exempt-org-business-master-file/blob/master/README.md): Cumulative list and attributes of all active tax-exempt organizations. 
+* Form 1023 and 1023-EZ meta-data. 
 
 <br>
 <br>
