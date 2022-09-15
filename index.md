@@ -16,7 +16,7 @@
 <br>
 
 
-<a class="button2" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
+<a class="button2" align="center" href="https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose">SUBMIT A QUESTION</a>
 
 <br>
 <hr>
