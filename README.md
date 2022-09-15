@@ -8,15 +8,13 @@
 
 *Contributors are volunteer experts, not IRS personnel.*  
 
-<br>
 <hr>
 <br>
 
-## [SUBMIT A QUESTION](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
+### [SUBMIT A QUESTION](https://github.com/Nonprofit-Open-Data-Collective/irs-990-data-issue-tracker/issues/new/choose)
 
 <br>
 <hr>
-<br>
 
 
 The IRS has started to systematically release administrative data and meta-data related to charitable organizations. As a result individuals can now access a tremendous amount of information on a charity before donating or supporting the entity, and policy-makers have a much bigger picture on the role that these 1.5 million organizations play in the economy and society. 
