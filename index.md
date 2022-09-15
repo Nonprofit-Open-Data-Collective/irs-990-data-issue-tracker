@@ -45,7 +45,7 @@ Data assets that are within the scope of this forum include:
 * [Database of Tax-Exempt Revocation](https://github.com/Nonprofit-Open-Data-Collective/irs-revoked-exempt-orgs/blob/master/README.md): list of organizations that have given-up or lost their tax exempt status. 
 * [Publication 78](https://github.com/Nonprofit-Open-Data-Collective/irs-current-exempt-orgs-database/blob/master/README.md):  Tax Exempt Organization Search (formerly Select Check). 
 * [Business Master File](https://github.com/Nonprofit-Open-Data-Collective/irs-exempt-org-business-master-file/blob/master/README.md): Cumulative list and attributes of all active tax-exempt organizations. 
-* Form 1023 and 1023-EZ meta-data. 
+* Form 1023 and [1023-EZ meta-data](https://nonprofit-open-data-collective.github.io/open-1023-ez-dataset/).  
 
 <br>
 <br>
