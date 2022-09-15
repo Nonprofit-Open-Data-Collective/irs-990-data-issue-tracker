@@ -23,15 +23,9 @@
 <br>
 
 
-The IRS has started to systematically release administrative data and meta-data related to charitable organizations. As a result individuals can now access a tremendous amount of information on a charity before donating or supporting the entity, and policy-makers have a much bigger picture on the role that these 1.5 million organizations play in the economy and society. 
+The IRS has started to systematically release administrative data and meta-data related to over 1.5 million charitable organizations. The data, however, is complex. And documentation is often sparse. 
 
-The data, however, is complex. And documentation is often sparse. 
-
-This site was created for two primary purposes: 
-
-**(1) To document the location of IRS 990 open data assets.**  
-
-**(2) To organize and archive discussions around data quality, documentation, and meta-data that makes the open data useful.**   
+This site was created to centalize **discussions around data documentation, meta-data, and quality control issue** in order to avoid duplication of efforts and make the open data more useful.   
 
 
 <br>
