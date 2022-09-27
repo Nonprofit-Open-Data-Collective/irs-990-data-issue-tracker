@@ -9,6 +9,7 @@
 >
 > * *A forum for people processing raw IRS data files to create standardized and enhanced data products.*    
 > * *Contributors to the forum are volunteer experts, **NOT IRS personnel**.*   
+> * *Experts have affiliations with a variety of professional and academic institutions. This forum is not associated with a specific institution.* 
 
 <br>
 <hr>
