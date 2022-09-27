@@ -27,7 +27,7 @@ The IRS has started to systematically release administrative data and meta-data 
 
 This site was created to **centalize discussions around data documentation, meta-data, and quality control issue** in order to avoid duplication of efforts and make the open data more useful.   
 
-*The forum is not intended for questions about analyzing data, unless they are related to systematic errors discovered in public datasets.*  
+*The forum is not intended for questions about analyzing data, unless they are related to things like documentation, meta-data, or systematic errors discovered in public datasets.*  
 
 
 <br>
