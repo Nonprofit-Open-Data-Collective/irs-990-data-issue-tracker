@@ -1,0 +1,131 @@
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+<style>
+li i {
+  float : right; 
+}
+li span {
+  float : right; 
+}
+</style>
+
+
+</head>
+
+<body class="page-responsive">
+
+
+	
+<br>
+<br>
+	
+	
+<div class = "uk-container">
+
+<h2> Discussion Topics <a href="https://github.com/Nonprofit-Open-Data-Collective/nonprofit-open-data-collective.github.io/blob/master/discuss.md" class="uk-icon-button" uk-icon="github"></a></h2>
+
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for issues.." title="Type in a name" style="width:60%;padding: 12px;"> 
+<a class="uk-button uk-button-secondary" href="https://github.com/Nonprofit-Open-Data-Collective/nonprofit-open-data-collective.github.io/blob/master/discuss.md">New Topic</a>
+
+<div class = "table-responsive">
+<table id="myTable" style="width:90%; margin-left:0px; margin-right:20px;">
+
+  <tr class="header">
+    <th style="width:30%;">Issue</th>
+    <th style="width:30%;">Labels</th>
+    <th style="width:40%;">Created on</th>
+
+  </tr>
+</table>
+</div>
+
+<br>
+<br>
+
+
+
+<script>
+function myFunction() {
+  var input, filter, table, tr, td1,td2,td3, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 1; i < tr.length; i++) {
+    td1 = tr[i].getElementsByTagName("td")[0].getElementsByTagName("a")[0];
+    td2 = tr[i].getElementsByTagName("td")[1];
+    td3 = tr[i].getElementsByTagName("td")[2];
+
+    if (td1 || td2 || td3) {
+      if (td1.innerHTML.toUpperCase().indexOf(filter) > -1 || td2.innerHTML.toUpperCase().indexOf(filter) > -1 || td3.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+
+
+<div id="gitdata" class = {{ site.github_info.website-repo }} style="display: none;">{{ site.github_info.username }}</div>
+<div id = "results"></div>
+
+
+<br>
+{{content}}
+<br>
+<br>
+
+
+<script>
+var username = document.getElementById("gitdata").innerHTML;
+var repo = document.getElementById("gitdata").getAttribute("class");
+var url = "https://api.github.com/repos/"+username+"/"+repo+"/issues";
+window.onload = httpGetAsync(url);
+
+function httpGetAsync(theUrl, resp)
+{ 
+  var d = document.getElementById("officehours");
+
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() { 
+        if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
+                	var obj = JSON.parse( xmlHttp.responseText);
+                	var table = document.getElementById("myTable");
+
+                	for(var i=0;i<obj.length;i++){
+                		var tr = document.createElement("tr");
+                		var td = document.createElement("td");
+                		var a = document.createElement("a");
+                		a.setAttribute("href",obj[i].html_url);
+                		a.innerHTML = obj[i].title;
+                		td.appendChild(a);
+                		tr.appendChild(td);
+                		var td = document.createElement("td");
+                    if(!obj[i].labels[0]){
+                      var txt = document.createTextNode("");
+                    td.appendChild(txt);
+                    }else{
+                		var txt = document.createTextNode(obj[i].labels[0].name);
+                		td.appendChild(txt);
+                    }
+                		tr.appendChild(td);
+                		var td = document.createElement("td");
+                		var txt = document.createTextNode(new Date(obj[i].created_at).toUTCString());
+                		td.appendChild(txt);
+                		tr.appendChild(td);
+                		table.appendChild(tr);
+                	}
+        }
+    }
+    xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+    xmlHttp.send(null);
+}
+
+</script>
+
+</div>
+</body>
